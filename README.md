@@ -66,7 +66,7 @@ rerun 'ruby getCabrito.rb sql.db'
 
 
 ## How to use?
-Setup nginx to work ask reverse proxy to forward requests to getCabrito script. The setup is identical to [creds-harvester](https://github.com/KINGSABRI/creds-harvester) as it work mostly like it in addition to the tracking part.
+Setup nginx to work as reverse proxy to forward requests to getCabrito script. The setup is identical to [creds-harvester](https://github.com/KINGSABRI/creds-harvester) as it work mostly like it in addition to the tracking part.
 
 
 #### Step #1
